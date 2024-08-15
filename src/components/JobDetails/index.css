@@ -1,0 +1,92 @@
+.m {
+  color: black;
+}
+.jobDetail-fg {
+  background-color: black;
+  min-height: 100vh;
+  margin-top: 50px;
+}
+.jobDetail-fb {
+  padding: 50px;
+  padding-bottom: 0;
+  overflow-y: auto;
+}
+.dis {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.visit-btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 5px;
+  color: #6366f1;
+}
+.skill-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 280px;
+  margin-bottom: 30px;
+  margin-right: 50px;
+}
+.skill-image {
+  height: 50px;
+}
+.skill-name {
+  color: white;
+  font-weight: 600;
+  margin-left: 20px;
+}
+.skills-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  flex-wrap: wrap;
+}
+.full-card11 {
+  padding: 40px;
+}
+.p111 {
+  width: 80%;
+}
+.iimg1 {
+  height: 200px;
+  border-radius: 20px;
+}
+.lac-fg {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.sim-ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 60px;
+}
+.ppp {
+  padding: 50px;
+  padding-top: 20px;
+}
+.parahead {
+  font-size: 25px;
+  color: white;
+  font-weight: 600;
+}

@@ -1,0 +1,102 @@
+.inner-full-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.company-logo1 {
+  height: 50px;
+}
+.full-card {
+  background-color: #272727;
+  padding: 20px;
+  width: 100%;
+  border-radius: 15px;
+}
+.card-in-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-left: 10px;
+}
+.rating11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 6px;
+  gap: 5px;
+}
+.para11 {
+  color: white;
+  font-family: roboto;
+  font-weight: bold;
+  margin: 0;
+}
+.star1 {
+  color: #fbbf24;
+}
+.rating {
+  color: white;
+  margin: 0;
+}
+.full-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.full-12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}
+.full-11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  color: white;
+  font-size: 13px;
+}
+.logo-c {
+  font-size: 17px;
+}
+.salary {
+  color: white;
+  display: flex;
+  flex-direction: row;
+
+  align-self: flex-end;
+}
+.hr {
+  margin: 0;
+  border-color: #7e858e;
+}
+.p12 {
+  color: white;
+  margin: 8px;
+  margin-left: 0;
+  font-weight: 600;
+}
+.p123 {
+  color: #f8fafc;
+  font-size: 15px;
+}
+.p1234 {
+  color: #f8fafc;
+  font-size: 15px;
+}
+.p122 {
+  color: white;
+  margin: 8px;
+  font-size: 20px;
+  margin-left: 0;
+  font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
